@@ -1,6 +1,7 @@
 {
     "name": "BalkanCompany",
     "version_number": "0.0.1",
+    "website_url": "https://github.com/xShteff/BalkanCompany",
     "description": "Only manele and dank songs.",
     "dependencies": [
       "BepInEx-BepInExPack-5.4.2100",
