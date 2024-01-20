@@ -1,3 +1,9 @@
+## Version 1.0.4
+
+- add: Roberta Selagea - Cine detine Audi
+- add: Costel Biju - Gipsy Style
+- remove: 2 Phut Hon KAIZ Remix
+
 ## Version 1.0.3
 
 - `plugins` folder to hopefully fix Thunderstore install
