@@ -24,6 +24,20 @@ Yes!
 - Roberta Selagea: Cine detine Audi
 - Halogen: U Got That
 - Costel Biju: Gipsy Style
+- Sorinel Pustiu - Bomba bombelor
+- Tzanca Uraganu - Buzele cu rosu inchis
+- Tzanca Uraganu - Banii 
+- Sorinel Pustiu - Stau ca Vulturu Pe Stanca
+- Nicolae Guta - Toate pozele cu tine
+- Nicolae Guta - GIGOLO
+- Nicolae Guta - Cerul are multe stele
+- Luis Gabriel - Toate diamantele
+- Ionut Cercel - Made in Romania
+- Florin Salam si Claudia - Mergem mai departe
+- Florin Salam - A iesit soarele din nori
+- Florin  Salam  -  Mor de ochii tai
+- Cocos de la Calarasi, Vali Vijelie, Iuly Neamtu - MALDIVE
+- Adrian Minune - JUMATATE TU JUMATATE EU
 
 ## Dependencies
 - https://thunderstore.io/c/lethal-company/p/CD/BoomboxVolumeAdjuster
